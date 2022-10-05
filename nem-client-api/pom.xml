@@ -31,7 +31,7 @@
         <nem-code-base>http://bob.nem.ninja/webstart</nem-code-base>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- http://central.maven.org/maven2/org/eclipse/jetty/jetty-maven-plugin/ -->
-        <jetty.version>9.2.11.v20150529</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <spring.version>4.1.6.RELEASE</spring.version>
         <nemcore.version>0.6.91-BETA</nemcore.version>
     </properties>
